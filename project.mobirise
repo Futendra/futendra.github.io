@@ -73,7 +73,7 @@
       "colorText": "#232323",
       "colorLink": "#f26b96",
       "underlineLink": true,
-      "text": "<font face = \"open sans\">By continuing you agree to our <a href='terms.html' target='_blank'>Terms of Service</a> and <a href='policy.html' target='_blank'>Privacy Policy</a>.</font>"
+      "text": "<font face = \"open sans\">By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.</font>"
     },
     "google-analytics": "",
     "sitemapSwitcher": "on",
