@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Onkruit",
-    "currentPage": "privacy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -73,7 +73,7 @@
       "colorText": "#232323",
       "colorLink": "#f26b96",
       "underlineLink": true,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "By continuing you agree to our <a href='terms.html' target='_blank'>Terms of Service</a> and <a href='policy.html' target='_blank'>Privacy Policy</a>."
     },
     "google-analytics": "",
     "sitemapSwitcher": "on",
